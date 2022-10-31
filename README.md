@@ -213,7 +213,10 @@ public class PegawaiBeraksi {
         b.cetakInfo();
     }
 }
+```
+<p>Outputnya adalah </p>
 
+![gambar 4](ss/2.png)
 
 
 
